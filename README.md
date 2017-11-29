@@ -40,7 +40,7 @@ item布局如下(布局视使用情况而定，这里只展示demo)：
 
 loading布局如下(布局视使用情况而定，这里只展示demo)：
 
-```xm;
+```xml
 <!-- part_recycler_view_footer.xml -->
 <?xml version="1.0" encoding="utf-8"?>
 <FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
