@@ -2,7 +2,7 @@
 
 日常开发中使用RecyclerView时会经常用到上拉加载的功能，但是RecyclerView本身又没有提供便捷的使用方法，只提供了一个统一的下拉加载功能。这里我们演示一下如何为RecyclerView添加上拉加载功能。
 
-完整demo你可以再github上看到：![RecyclerViewLoadMoreDemo]()
+完整demo你可以再github上看到：![RecyclerViewLoadMoreDemo](https://github.com/onlynight/RecyclerViewLoadMoreDemo)
 
 ### 原理
 
